@@ -17,7 +17,8 @@ The design system aims to provide a cohesive and consistent visual identity for 
   The provided font pairings are versatile and can be used across different types of content.
 
 ## View Site: 
-https://mikala773.github.io/challenge-design-system/
+
+https://mikala773.github.io/challenge-project-website-design-system/
 
 # Status:
 - Still adding to. 
