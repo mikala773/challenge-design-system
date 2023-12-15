@@ -14,6 +14,15 @@ The design system aims to provide a cohesive and consistent visual identity for 
 - **Font Combinations:** Choose from a selection of font combinations that strike the right balance between readability and aesthetics.
   The provided font pairings are versatile and can be used across different types of content.
 
+## View Site: 
+https://mikala773.github.io/challenge-design-system/
+
+# Status:
+Still adding to. Need to edit to make responsive. 
+
+
+
+
 ## Contact
 
 For any questions, issues, or suggestions, please contact:
