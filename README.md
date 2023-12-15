@@ -1,10 +1,10 @@
-# Codecademy Project: Build a Website Design System
+# Codecademy Project: Website Design System
 
-https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-build-a-website-design-system-2a08b912-678e-4186-ab57-86a0fb0ca601/projects/independent-project-web-design-system 
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-build-a-website-design-system-2a08b912-678e-4186-ab57-86a0fb0ca601/projects/independent-project-web-design-system
 
 ## Overview
 
-Welcome to the Challenge Project: Build a Website Design System, created as part of the Codecademy curriculum for the Full-Stack Engineering Path. 
+Welcome to the Challenge Projected: Build a Website Design System, created as part of the Codecademy curriculum. 
 This project focuses on building a design system. I chose to include multiple color palettes and font combinations. 
 The design system aims to provide a cohesive and consistent visual identity for web projects.
 
@@ -21,9 +21,7 @@ https://mikala773.github.io/challenge-design-system/
 
 # Status:
 - Still adding to. 
-- Need to edit to make responsive. 
-
-
+- Need to edit to make the website responsive. 
 
 
 ## Contact
