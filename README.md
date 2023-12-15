@@ -20,8 +20,8 @@ The design system aims to provide a cohesive and consistent visual identity for 
 https://mikala773.github.io/challenge-design-system/
 
 # Status:
--Still adding to. 
--Need to edit to make responsive. 
+- Still adding to. 
+- Need to edit to make responsive. 
 
 
 
